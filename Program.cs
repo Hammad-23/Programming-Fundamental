@@ -53,12 +53,43 @@ namespace ConsoleApp2
 
             //Q3
 
-            Console.WriteLine("Enter value of initial velocity");
-            int initialVelocity = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter value of final velocity");
-            int finalVelocity = Convert.ToInt32(Console.ReadLine());
-            double averageVelocity = ((double)initialVelocity + (double)finalVelocity) / 2;
-            Console.WriteLine("Value of average velocity is {0}", averageVelocity);
+            //Console.WriteLine("Enter value of initial velocity");
+            //int initialVelocity = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter value of final velocity");
+            //int finalVelocity = Convert.ToInt32(Console.ReadLine());
+            //double averageVelocity = ((double)initialVelocity + (double)finalVelocity) / 2;
+            //Console.WriteLine("Value of average velocity is {0}", averageVelocity);
+
+
+
+
+
+            //Q4 
+
+            //Console.WriteLine("Enter value of mass 1");
+            //int m1 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter value of mass 2");
+            //int m2 = Convert.ToInt32(Console.ReadLine());
+            //double reducedMass = ((double)m1 * (double)m2) / ((double)m1 + (double)m2);
+            //Console.WriteLine("Value of reduced mass is {0}", reducedMass);
+
+
+
+
+
+
+            //Q5
+
+            //Console.WriteLine("Enter temperature in fahrenheit");
+            //int fahrenheit = Convert.ToInt32(Console.ReadLine());
+            //double formula = ((double)fahrenheit - 32) * (0.555);
+            //Console.WriteLine("Temperature in celsius is {0}", formula);
+
+
+
+
+
+
 
 
 
