@@ -37,6 +37,8 @@ namespace ConsoleApp2
             //Console.WriteLine("Value of kinetic energy is {0}", kineticEnergy);
 
 
+
+
             //Q2
 
             //Console.WriteLine("Enter value of initial velocity");
@@ -48,6 +50,8 @@ namespace ConsoleApp2
             //double timeSquare = Math.Pow(time, 2);
             //double distance = ((double)initialVelocity * (double)time) + (0.5) * ((double)acceleration * (double)timeSquare);
             //Console.WriteLine("Value of distance is {0}", distance);
+
+
 
 
 
@@ -84,6 +88,110 @@ namespace ConsoleApp2
             //int fahrenheit = Convert.ToInt32(Console.ReadLine());
             //double formula = ((double)fahrenheit - 32) * (0.555);
             //Console.WriteLine("Temperature in celsius is {0}", formula);
+
+
+
+
+
+
+
+
+            //PF Assignment 1
+
+
+            //string firstWord = "Hello";
+            //string secondWord = "World";
+            //Console.WriteLine(firstWord + " " + secondWord);
+
+
+
+
+            //int num1 = 5;
+            //int num2 = 10;
+            //num1 = 10;
+            //num2 = 5;
+            //Console.WriteLine(num1);
+            //Console.WriteLine(num2);
+
+
+            //int num = 52130;
+            //Console.WriteLine("integer--> {0}",num);
+            //double num2 = 176.553;
+            //Console.WriteLine("double--> {0}",num2);
+            //long num3 = 123456789123456789;
+            //Console.WriteLine("long--> {0}", num3);
+            //bool check = true;
+            //bool check2 = false;
+            //Console.WriteLine("boolean--> {0}", check);
+            //Console.WriteLine("boolean--> {0}", check2);
+            //string name = "Syed Hammad Ahmed";
+            //Console.WriteLine("string--> {0}", name);
+            //decimal num4 = 675.678m;
+            //Console.WriteLine("decimal--> {0}", num4);
+            //float num5 = 1990.657f;
+            //Console.WriteLine("float--> {0}", num5);
+            //int num6 = -156;
+            //Console.WriteLine("integer--> {0}", num6);
+            //char character = 'm';
+            //Console.WriteLine("char--> {0}", character);
+            //char character2 = 'a';
+            //Console.WriteLine("char--> {0}", character2);
+            //long num7 = 970700000;
+            //Console.WriteLine("long--> {0}", num7);
+
+
+
+
+            //Console.WriteLine("Enter value of a");
+            //int a = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter value of b");
+            //int b = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter value of h");
+            //int h = Convert.ToInt32(Console.ReadLine());
+            //double area = (((double)a + (double)b) / 2 * (double)h);
+            //Console.WriteLine("Area of trapezoid is {0}", area);
+
+
+
+            //Console.WriteLine("Enter name");
+            //string name = Console.ReadLine();
+
+            //switch (name)
+            //{
+
+            //    case "Hammad":
+            //        string line = "Hammad enter kiya hai";
+            //        Console.WriteLine(line);
+            //        break;
+
+            //    case "Anas":
+            //        string line2 = "Anas enter kiya hai";
+            //        Console.WriteLine(line2);
+            //        break;
+
+
+
+            //}
+
+
+
+            //Console.WriteLine("Enter value of length");
+            //int length = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter value of width");
+            //int width = Convert.ToInt32(Console.ReadLine());
+            //double rectangle = (double)width * (double)length;
+            //double perimeter = 2*((double)length + (double)width);
+            //Console.WriteLine("Area of rectangle is {0}", rectangle);
+            //Console.WriteLine("Perimeter of rectangle is {0}", perimeter);
+
+            
+
+
+
+
+
+
+
 
 
 
