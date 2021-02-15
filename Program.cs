@@ -410,27 +410,172 @@ namespace ConsoleApp2
             //Console.WriteLine("Sum {0}", sum);
 
 
-            Console.Write("Enter number ");
-            int num = int.Parse(Console.ReadLine());
-            if (num % 5 == 0)
-            {
-                Console.WriteLine("Number is divisible by 5 ");
-            }else if (num % 7 == 0)
-            {
-                Console.WriteLine("Number is divisible by 7 ");
-            }
-            else
-            {
-                Console.WriteLine("Number is not divisible by 5 or even 7 ");
-            }
+
+            //Practice tasks
+
+            //Console.Write("Enter number ");
+            //int num = int.Parse(Console.ReadLine());
+            //if (num % 5 == 0)
+            //{
+            //    Console.WriteLine("Number is divisible by 5 ");
+            //}else if (num % 7 == 0)
+            //{
+            //    Console.WriteLine("Number is divisible by 7 ");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Number is not divisible by 5 or even 7 ");
+            //}
 
 
 
 
 
 
+            //Console.Write("Enter temp ");
+            //int degree = int.Parse(Console.ReadLine());
+            //if (degree > 35)
+            //{
+            //    Console.WriteLine("temperature is hot ");
+
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Temp is normal ");
+            //}
 
 
-            }
+            //Console.Write("Enter your name ");
+            //string name = Console.ReadLine();
+
+            //if (name == "ali"||name=="hammad")
+            //{
+            //    Console.WriteLine("correct");
+            //}
+            //else if (name=="ahmed")
+            //{
+            //    Console.WriteLine("also Correct");
+            //}else
+            //{
+            //    Console.WriteLine("Incorrect");
+            //}
+
+
+            //Console.Write("Enter your username ");
+            //string name = Console.ReadLine();
+            //Console.Write("Enter password ");
+            //string pass = Console.ReadLine();
+
+            //if (name == "hammad" && pass == "123")
+            //{
+            //    Console.WriteLine("Correct");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Incorrect");
+            //}
+
+
+
+            //int i = 30;
+            //int j = 25 % 25;
+
+            //if (Convert.ToBoolean(Convert.ToInt32(i = j)))
+            //{
+            //    Console.WriteLine("if condition true");
+            //}
+            //else
+            //{
+
+            //}
+
+
+
+
+
+
+            //Q1
+
+            //Console.Write("Enter a year ");
+            //int Year = int.Parse(Console.ReadLine());
+
+            //if ((Year % 4 == 0) && (Year % 100 != 0) || (Year % 400 == 0))
+            //{
+            //    Console.WriteLine("leap year");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Its not a leap year");
+            //}
+
+
+
+
+
+            //Q2
+
+            //Console.Write("Enter value of side a ");
+            //int a = int.Parse(Console.ReadLine());
+            //Console.Write("Enter value of side b ");
+            //int b = int.Parse(Console.ReadLine());
+            //Console.Write("Enter value of side c ");
+            //int c = int.Parse(Console.ReadLine());
+            //int sum = a + b + c;
+
+            //if (sum == 180)
+            //{
+            //    Console.WriteLine("its a triangle");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("its not a triangle");
+            //}
+
+
+
+
+
+            //Q3
+
+            //Console.Write("Enter number ");
+            //int num = int.Parse(Console.ReadLine());
+            //if (num % 2 == 0)
+            //{
+            //    Console.WriteLine("Number is even");
+
+            //}
+            //else if (num % 3 == 0)
+            //{
+            //    Console.WriteLine("Number is odd");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Number is neither even nor odd");
+            //}
+
+            //int i = 30;
+            //int j = 25 % 25;
+
+            // result = Convert.ToInt32(i = j);
+            //Console.WriteLine("result1 {0}", result);
+
+
+            //int a = -1;
+            //int b = -1;
+
+            //Console.WriteLine("ans " + (++a = ++b));
+            //if (Convert.ToBoolean(++a = ++b))
+            //    Console.WriteLine("a");
+            //else;
+            //Console.WriteLine("b");
+            //Console.ReadLine();
+
+
+
+
+        }
     }
 }
+
+
+
