@@ -494,6 +494,8 @@ namespace ConsoleApp2
 
 
 
+
+
             //Q1
 
             //Console.Write("Enter a year ");
@@ -569,6 +571,31 @@ namespace ConsoleApp2
             //else;
             //Console.WriteLine("b");
             //Console.ReadLine();
+
+
+            //int sum = 0;
+            //string num;
+            //for (int i = 1; i <= 5; i++)
+            //{
+            //    Console.Write("Enter number {0}: ", i);
+            //    num = Console.ReadLine();
+            //    bool result = int.TryParse(num, out int output);
+            //    if (result)
+            //    {
+            //        sum += output;
+
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Invalid number");
+            //        i--;
+            //    }
+
+            //}
+            //Console.WriteLine("Sum is: {0}", sum);
+
+
+
 
 
 
