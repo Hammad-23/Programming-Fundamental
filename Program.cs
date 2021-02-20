@@ -595,6 +595,57 @@ namespace ConsoleApp2
             //Console.WriteLine("Sum is: {0}", sum);
 
 
+            //Task.Delay(delay).ContinueWith((task) => { /* Code */ });
+
+
+
+            //Console.Write("Enter user name ");
+            //string userName = Console.ReadLine();
+            //if (userName == "ali" || userName == "Ali")
+            //{
+            //    Console.WriteLine("Enter password");
+            //    string pass = Console.ReadLine();
+            //    if (pass == "ali123")
+            //    {
+            //        Console.WriteLine("Correct");
+            //    }
+            //    else { 
+            //      Console.WriteLine("Incorrect password");
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Incorrect User name ");
+            //}
+
+
+
+
+            //Q1
+
+            //Console.Write("Enter Price of item1: ");
+            //int item1 = int.Parse(Console.ReadLine());
+            //Console.Write("Enter quantity of item1: ");
+            //int quantity1 = int.Parse(Console.ReadLine());
+            //Console.Write("Enter price of item2: ");
+            //int item2 = int.Parse(Console.ReadLine());
+            //Console.Write("Enter quantity of item2: ");
+            //int quantity2 = int.Parse(Console.ReadLine());
+            //Console.Write("Enter price of item3: ");
+            //int item3 = int.Parse(Console.ReadLine());
+            //Console.Write("Enter quantity of item3: ");
+            //int quantity3 = int.Parse(Console.ReadLine());
+
+            //int calculation = (item1 * quantity1) + (item2 * quantity2) + (item3 * quantity3);
+            //if (calculation > 5000)
+            //{
+            //    int discount = (calculation / 100) * 10;
+            //    Console.WriteLine("Your total bill after discount is {0}", discount);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Your total bill is {0}",calculation);
+            //}
 
 
 
