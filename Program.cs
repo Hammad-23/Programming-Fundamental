@@ -650,6 +650,51 @@ namespace ConsoleApp2
 
 
 
+            //Q2
+
+
+
+            //Console.Write("Enter cost price of item: ");
+            //double costPrice = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("Enter selling price of item: ");
+            //double sellingPrice = Convert.ToDouble(Console.ReadLine());
+
+            //if (sellingPrice > costPrice)
+            //{
+            //    Console.WriteLine("It is profit ");
+            //    Console.Write("If you want to know how much profit you got enter c : ");
+            //    char press = Convert.ToChar(Console.ReadLine());
+            //    if (press == 'c')
+            //    {
+            //        double profit = sellingPrice - costPrice;
+            //        Console.WriteLine("You got {0} Rs Profit", profit);
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Invalid character entered ");
+            //    }
+
+            //}
+            //else
+            //{
+            //    Console.WriteLine("It is Loss");
+            //    Console.Write("If you want to know how much loss you got enter c :");
+            //    char press2 = Convert.ToChar(Console.ReadLine());
+            //    if (press2 == 'c')
+            //    {
+            //        double loss = costPrice - sellingPrice;
+            //        Console.WriteLine("You got {0} Rs Loss ", loss);
+
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Invalid character entered ");
+            //    }
+
+            //}
+
+
+
 
         }
     }
