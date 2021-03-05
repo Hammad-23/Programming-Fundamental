@@ -644,7 +644,7 @@ namespace ConsoleApp2
             //}
             //else
             //{
-            //    Console.WriteLine("Your total bill is {0}",calculation);
+            //    Console.WriteLine("Your total bill is {0}", calculation);
             //}
 
 
@@ -692,6 +692,420 @@ namespace ConsoleApp2
             //    }
 
             //}
+
+
+
+
+
+
+            //Q3
+
+
+            //Console.Write("Enter employee's basic salary: ");
+            //double basicSalary = Convert.ToDouble(Console.ReadLine());
+
+            //if (basicSalary < 15000)
+            //{
+            //    double rentalAllowance = (basicSalary / 100) * 10;
+            //    double diningAllowance = (basicSalary / 100) * 90;
+            //    double grossSalary = basicSalary + rentalAllowance + diningAllowance;
+            //    Console.WriteLine("Gross salary of employee is {0} ", grossSalary);
+            //}
+            //else if (basicSalary >= 15000 && basicSalary < 20000)
+            //{
+            //    double rerentalAllowance2 = 500;
+            //    double diningAllowance2 = (basicSalary / 100) * 98;
+            //    double grossSalary2 = basicSalary + rerentalAllowance2 + diningAllowance2;
+            //    Console.WriteLine("Gross salary of employee is {0} ", grossSalary2);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Gross salary of employee is {0} ", basicSalary);
+            //}
+
+
+
+
+
+
+            //Q4
+
+
+
+            //Console.Write("How late are you returning this book? ");
+            //int days = int.Parse(Console.ReadLine());
+            //if (days >= 1 && days <= 5)
+            //{
+            //    Console.WriteLine("Your fine is 50 Rs ");
+
+            //}
+            //else if (days >= 6 && days <= 10)
+            //{
+            //    Console.WriteLine("Your fine is 100 Rs ");
+
+            //}
+            //else if (days > 10 && days <= 30)
+            //{
+            //    Console.WriteLine("Your fine is 150 Rs ");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("You membership is cancelled ");
+            //}
+
+
+
+
+
+
+            //Q5
+
+            //Console.Write("What is the martial status of Software Developer? ");
+            //string martialStatus = Console.ReadLine();
+            //Console.WriteLine("What is the Gender of Software Developer? ");
+            //char gender = Convert.ToChar(Console.ReadLine());
+            //Console.Write("What is the Age of Software Developer? ");
+            //int age = int.Parse(Console.ReadLine());
+            //if(martialStatus=="married"|| martialStatus == "Married")
+            //{
+            //    Console.WriteLine("Software Developer is Ensured ");
+            //}else if (martialStatus=="unmarried"&&gender=='M'&&age>28)
+            //{
+            //    Console.WriteLine("Software Developer is Ensured ");
+            //}else if(martialStatus == "unmarried" && gender == 'F' && age > 22)
+            //{
+            //    Console.WriteLine("Software Developer is Ensured ");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Software Developer is not ensured ");
+            //}
+
+
+
+
+
+
+            //Q1
+
+
+
+            //Console.Write("Enter number: ");
+            //int num = int.Parse(Console.ReadLine());
+            //for (int i = 1; i <= 25; i++)
+            //{
+            //    Console.WriteLine(num + " X " + i + " = " + num * i);
+            //}
+
+
+
+
+            //Q3
+
+
+            //Console.Write("Enter Number: ");
+            //int number = int.Parse(Console.ReadLine());
+            //for (int i = 1; i <= number; i++)
+            //{
+            //    if (!(i % 3 == 0) && !(i % 7 == 0))
+            //    {
+            //        Console.WriteLine(i);
+
+            //    }
+
+            //}
+
+
+
+
+
+            //Q4
+
+
+            //int i, sum = 1, number;
+            //Console.Write("Enter any Number: ");
+            //number = int.Parse(Console.ReadLine());
+            //for (i = 1; i <= number; i++)
+            //{
+            //    sum = sum * i;
+            //}
+            //Console.Write("Factorial of " + number + " is: " + sum);
+
+
+
+
+            //Q5
+
+
+
+            //int num1 = 0, num2 = 1, num3, i, number;
+            //Console.Write("Enter the range of Numbers: ");
+            //number = int.Parse(Console.ReadLine());
+            //Console.Write(num1 + " " + num2 + " ");
+            //for (i = 2; i < number; ++i)
+            //{
+            //    num3 = num1 + num2;
+            //    Console.Write(num3 + " ");
+            //    num1 = num2;
+            //    num2 = num3;
+            //}
+
+
+
+
+            //Q6
+
+            //int rollAmount = 6000;
+            //int dice;
+            //int sum1 = 0;
+            //int sum2 = 0;
+            //int sum3 = 0;
+            //int sum4 = 0;
+            //int sum5 = 0;
+            //int sum6 = 0;
+            //Random random = new Random();
+            //for (int i = 0; i <= rollAmount; i++)
+            //{
+            //    dice = random.Next(1, 7);
+            //    Console.WriteLine("Roll " + i + ": " + dice.ToString());
+            //    if (dice == 1) sum1++;
+            //    else if (dice == 2) sum2++;
+            //    else if (dice == 3) sum3++;
+
+            //}
+
+
+            //Console.WriteLine("Done");
+
+
+
+
+
+            //Q2
+
+
+            //int range, i, prime, k;
+
+            //Console.Write("Enter length: ");
+            //range = int.Parse(Console.ReadLine());
+
+            //for (i = 2; i <= range; i++)
+            //{
+            //    k = 2;
+            //    prime = 1;
+            //    while (k < i)
+            //    {
+            //        if (i % k == 0)
+            //        {
+            //            prime = 0;
+            //            break;
+            //        }
+            //        k++;
+            //    }
+            //    if (prime == 1)
+            //    {
+            //        Console.WriteLine("Number is prime:" + i);
+            //    }
+            //}
+
+
+
+
+
+
+
+            //Q1
+
+
+
+            //int C1 = 2 + 0 + 2 + 1;
+            //int C2 = 1 + 3 + 0 + 4 + 1;
+            //int A = C1 + C2;
+            //Console.WriteLine("Value of A is {0}", A);
+
+            //int C3 = 2 + 3 + 0 + 2 + 2 + 0 + 0 + 1;
+            //int B = C3;
+            //Console.WriteLine("Value of B is {0}", B);
+            //double C = (double)A / 10;
+            //Console.WriteLine("Value of C is {0}", C);
+            //double D = (double)A / 100;
+            //Console.WriteLine("Value of D is {0}", D);
+            //Console.WriteLine("Value of C1 is {0}", C1);
+            //Console.WriteLine("Value of C2 is {0}", C2);
+            //Console.WriteLine("Value of C3 is {0}", C3);
+
+
+
+            // Q2
+
+
+            //Console.Write("Enter IMEI no: ");
+            //long imei = long.Parse(Console.ReadLine());
+            //if (imei % 2 == 0)
+            //{
+            //    Console.WriteLine("Number is even ");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Number is odd ");
+            //}
+
+
+
+
+
+
+
+            //Q3
+
+            //double cost1 = 5.00;
+            //double cost2 = 8.00;
+            //double cost3 = 10.00;
+            //double cost4 = 12.00;
+
+            //Console.Write("Enter distance: ");
+            //int distance = int.Parse(Console.ReadLine());
+            //if (distance >= 0 && distance <= 100)
+            //{
+            //    Console.WriteLine("Cost is {0}", cost1);
+            //}
+            //else if (distance > 100 && distance <= 500)
+            //{
+            //    Console.WriteLine("Cost is {0}", cost2);
+            //}
+            //else if (distance > 500 && distance < 1000)
+            //{
+            //    Console.WriteLine("Cost is {0}", cost3);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Cost is {0}", cost4);
+            //}
+
+
+
+
+
+
+
+            //Q4
+            //int currentBalance = 50000;
+            //Console.WriteLine("Hello! What type of Transaction you Want?");
+            //Console.WriteLine("Enter 1 for Money checking");
+            //Console.WriteLine("Enter 2 for Money withdrawal");
+            //Console.WriteLine("Enter 3 for Money deposition");
+            //Console.Write("Enter: ");
+            //int userInput = int.Parse(Console.ReadLine());
+            //if (userInput == 1)
+            //{
+            //    Console.WriteLine("Your Current Balance is {0}", currentBalance);
+
+            //}else if (userInput == 2)
+            //{
+            //    Console.Write("Enter Amount: ");
+            //    int withdrawal = int.Parse(Console.ReadLine());
+            //    int now = currentBalance - withdrawal;
+            //    Console.WriteLine("Successfully Withdrawal {0} RS", withdrawal);
+            //    Console.WriteLine("Now your Current Balance is {0}", now);
+            //}else if (userInput == 3)
+            //{
+            //    Console.Write("Enter Amount: ");
+            //    int deposite = int.Parse(Console.ReadLine());
+            //    int balance = deposite + currentBalance;
+            //    Console.WriteLine("Successfully deposited {0} RS", deposite);
+            //    Console.WriteLine("Now your Current Balance is {0}",balance);
+            //}
+
+
+
+            //int i, j, count = 1, number;
+            //Console.Write("Enter number of rows:");
+            //number = int.Parse(Console.ReadLine());
+            //count = number - 1;
+            //for (j = 1; j <= number; j++)
+            //{
+            //    for (i = 1; i <= count; i++)
+            //        Console.Write(" ");
+            //    count--;
+            //    for (i = 1; i <= 2 * j - 1; i++)
+            //        Console.Write("*");
+            //    Console.WriteLine();
+            //}
+            //count = 1;
+            //for (j = 1; j <= number - 1; j++)
+            //{
+            //    for (i = 1; i <= count; i++)
+            //        Console.Write(" ");
+            //    count++;
+            //    for (i = 1; i <= 2 * (number - j) - 1; i++)
+            //        Console.Write("*");
+            //    Console.WriteLine();
+            //}
+            //Console.ReadLine();
+
+
+            //Console.Write("Enter the quantity of stars: ");
+            //int stars = Convert.ToInt32(Console.ReadLine());
+
+            //int i = 1;
+            //while (i <= stars)
+            //{
+            //    int j = 0;
+            //    while (j <= stars - i)
+            //    {
+            //        Console.Write(" ");
+            //        j++;
+            //    }
+
+            //    int k = 0;
+            //    while (k < (2 * i - 1))
+            //    {
+            //        if (k == 0 || k == 2 * i - 2)
+            //        {
+            //            Console.Write("*");
+            //        }
+            //        else
+            //        {
+            //            Console.Write(" ");
+            //        }
+            //        k++;
+            //    }
+            //    i++;
+            //    Console.WriteLine();
+            //}
+
+            //i = stars;
+            //while (i >= 1)
+            //{
+            //    int j = 0;
+            //    while (j <= stars - i)
+            //    {
+            //        Console.Write(" ");
+            //        j++;
+            //    }
+
+            //    int k = 0;
+            //    while (k < (2 * i - 1))
+            //    {
+            //        if (k == 0 || k == 2 * i - 2)
+            //        {
+            //            Console.Write("*");
+            //        }
+            //        else
+            //        {
+            //            Console.Write(" ");
+            //        }
+            //        k++;
+            //    }
+            //    i--;
+            //    Console.WriteLine();
+            //}
+
+
+
+
+
+
 
 
 
