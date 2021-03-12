@@ -1103,8 +1103,166 @@ namespace ConsoleApp2
 
 
 
+            //int a = 5;
+            //int b = 10;
+            //float c = a + b;
+            //for (int i = 0; i < 2; i++)
+            //{
+            //    Console.WriteLine(++c);
+            //    Console.WriteLine(a);
+            //}
 
 
+            //if (true)
+            //{
+            //    Console.WriteLine("print true");
+            //    if (!false)
+            //    {
+            //        Console.WriteLine("Print false");
+            //        if (!(true))
+            //        {
+            //            Console.WriteLine("print true");
+            //        }
+            //    }
+            //}
+            //else
+            //if (true)
+            //{
+            //    Console.WriteLine("print false");
+            //}
+
+
+            //Console.Write("Enter value of x: ");
+            //double x = double.Parse(Console.ReadLine());
+            //Console.Write("Enter value of y: ");
+            //double y = double.Parse(Console.ReadLine());
+            //Console.Write("Enter value of a: ");
+            //double a = double.Parse(Console.ReadLine());
+
+            //double xSquare = Math.Pow(x, 2);
+
+            //double ycube = Math.Pow(y, 3);
+            //double equation = (2 * ycube) + (3 * xSquare) + (4 * a);
+            //Console.WriteLine("Output of equation {0} ", equation);
+
+            //for (int i = 1; i <= 100; i++)
+            //{
+            //    Random random = new Random();
+            //    int numbers = random.Next(1, 100);
+
+            //    if(numbers%3==0 && numbers % 5 == 0)
+            //    {
+            //        Console.WriteLine("numbers are {0}", numbers);
+            //    }
+
+            //}
+
+
+            //Console.WriteLine("Enter Digit From (0-9) ...");
+            //int day = Convert.ToInt32(Console.ReadLine());
+            //switch (day)
+            //{
+            //    case 0:
+            //        Console.WriteLine("Zero");
+            //        break;
+            //    case 1:
+            //        Console.WriteLine("One");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("Two");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("Three");
+            //        break;
+            //    case 4:
+            //        Console.WriteLine("Four");
+            //        break;
+            //    case 5:
+            //        Console.WriteLine("Five");
+            //        break;
+            //    case 6:
+            //        Console.WriteLine("Six");
+            //        break;
+            //    case 7:
+            //        Console.WriteLine("Seven");
+            //        break;
+            //    case 8:
+            //        Console.WriteLine("Eight");
+            //        break;
+            //    case 9:
+            //        Console.WriteLine("Nine");
+            //        break;
+
+            //}
+            //Console.ReadKey();
+
+
+
+            //float avg1 = 0, avg2 = 0, avg3 = 0, avg4 = 0;
+            //for (int i = 1; i <= 5; i++)
+            //{
+            //    Console.WriteLine("Enter  the clas 1  " + i + " Student Marks ");
+            //    float c1s1 = Convert.ToInt32(Console.ReadLine());
+            //    avg1 = avg1 + c1s1;
+            //}
+            //avg1 = avg1 / 5;
+            //for (int i = 1; i <= 5; i++)
+            //{
+            //    Console.WriteLine("Enter  the clas 2  " + i + " Student Marks ");
+            //    float c1s1 = Convert.ToInt32(Console.ReadLine());
+            //    avg2 = avg2 + c1s1;
+            //}
+            //avg2 = avg2 / 5;
+            //for (int i = 1; i <= 5; i++)
+            //{
+            //    Console.WriteLine("Enter  the clas 3  " + i + " Student Marks ");
+            //    float c1s1 = Convert.ToInt32(Console.ReadLine());
+            //    avg3 = avg3 + c1s1;
+            //}
+            //avg3 = avg3 / 5;
+            //for (int i = 1; i <= 5; i++)
+            //{
+            //    Console.WriteLine("Enter  the clas 4  " + i + " Student Marks ");
+            //    float c1s1 = Convert.ToInt32(Console.ReadLine());
+            //    avg4 = avg4 + c1s1;
+            //}
+            //avg4 = avg4 / 5;
+
+
+
+            //Console.WriteLine("Average of Calss 1 Marks" + avg1);
+            //Console.WriteLine("Average of Calss 2 Marks" + avg2);
+            //Console.WriteLine("Average of Calss 3 Marks" + avg3);
+            //Console.WriteLine("Average of Calss 4 Marks" + avg4);
+
+
+            //Console.ReadKey();
+
+
+            //Console.WriteLine("\n");
+            //Console.WriteLine("Marks Of Class 1B");
+
+            //Console.WriteLine("\n Enter Marks Of F: ");
+            //int a = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("\n Enter Marks Of G: ");
+            //int b = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("\n Enter Marks Of H: ");
+            //int c = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("\n Enter Marks Of I: ");
+            //int d = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("\n Enter Marks Of J: ");
+            //int e = Convert.ToInt32(Console.ReadLine());
+
+            //int y = a + b + c + d + e;
+            //float avg1 = y / 5;
+            //Console.WriteLine("Total Marks Of Class 1B = " + y);
+            //Console.WriteLine("Average Marks of Class 1B = " + avg1);
+
+            //Console.ReadKey();
 
 
 
