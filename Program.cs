@@ -1264,6 +1264,50 @@ namespace ConsoleApp2
 
             //Console.ReadKey();
 
+            //Q2
+
+            //string num = "";
+            //string star = "";
+
+            //for (int i = 1; i <= 7; i++)
+            //{
+            //    num = num + i;
+            //    Console.Write(num);
+            //    for (int j = i; j <= 6; j++)
+            //    {
+
+            //        Console.Write("*");
+
+            //    }
+            //    Console.WriteLine("");
+            //}
+
+
+            //Q3
+
+            //Console.Write("Enter number of lines: ");
+            //int length = int.Parse(Console.ReadLine());
+            //for(int i=1; i <= length; i++)
+            //{
+            //    Console.WriteLine("");
+            //    for(int j = 1; j <= length; j++)
+            //    {
+            //        Console.Write("*");
+            //    }
+            //}
+
+
+            //Q1
+
+
+            //string number = "";
+            //for(int i = 1; i <= 5; i++)
+            //{
+            //    Console.WriteLine(number = number + i);
+            //}
+
+
+
 
 
 
